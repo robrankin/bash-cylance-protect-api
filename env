@@ -1,0 +1,4 @@
+export CYLANCE_TID=""
+export CYLANCE_APP_ID=""
+export CYLANCE_APP_SECRET=""
+export CYLANCE_REGION="" # ex. '-euc1'
